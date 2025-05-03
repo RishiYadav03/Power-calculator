@@ -7,7 +7,7 @@ This simple yet functional web calculator allows users to input a number and ins
 
 🧊 Cube of the number (number × number × number)
 
-✅ Whether the number is positive, negative, or zero
+✅ Whether the number is positive, negative it converts to positive integer
 
 💡 Features:
 
